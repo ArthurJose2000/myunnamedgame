@@ -1,0 +1,10 @@
+
+
+
+TROCAR: RB -> linearVelocity vs velocity
+
+
+
+perguntas:
+
+- como eliminar um GameObject depois que ele passar totalmente da borda?
